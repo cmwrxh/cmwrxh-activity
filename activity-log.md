@@ -19,3 +19,4 @@ Personal notes start
 - Experiment log 2023-01-03 – 17:54:00
 - Project progress 2023-01-04 – 08:30:00
 - Learning update 2023-01-04 – 10:54:00
+- Quick reflection 2023-01-04 – 13:55:00
