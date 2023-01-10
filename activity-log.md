@@ -30,3 +30,4 @@ Personal notes start
 - Learning update 2023-01-09 – 14:33:00
 - Learning update 2023-01-10 – 21:24:00
 - Small improvement 2023-01-10 – 07:14:00
+- Project progress 2023-01-10 – 07:38:00
