@@ -46,3 +46,4 @@ Personal notes start
 - Quick reflection 2023-02-02 – 13:34:00
 - Experiment log 2023-02-03 – 07:19:00
 - Quick reflection 2023-02-03 – 14:51:00
+- Quick reflection 2023-02-06 – 17:12:00
