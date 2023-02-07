@@ -48,3 +48,4 @@ Personal notes start
 - Quick reflection 2023-02-03 – 14:51:00
 - Quick reflection 2023-02-06 – 17:12:00
 - Daily note 2023-02-06 – 19:05:00
+- Learning update 2023-02-07 – 21:17:00
