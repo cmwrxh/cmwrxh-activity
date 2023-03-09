@@ -67,3 +67,4 @@ Personal notes start
 - Learning update 2023-03-07 – 10:07:00
 - Learning update 2023-03-07 – 20:23:00
 - Learning update 2023-03-09 – 22:05:00
+- Experiment log 2023-03-09 – 14:41:00
