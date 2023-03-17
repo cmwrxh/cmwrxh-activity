@@ -72,3 +72,4 @@ Personal notes start
 - Learning update 2023-03-10 – 10:11:00
 - Project progress 2023-03-14 – 15:28:00
 - Learning update 2023-03-16 – 22:56:00
+- Code session 2023-03-17 – 18:03:00
