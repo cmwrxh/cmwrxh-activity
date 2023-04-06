@@ -85,3 +85,4 @@ Personal notes start
 - Quick reflection 2023-04-03 – 07:06:00
 - Code session 2023-04-03 – 13:49:00
 - Experiment log 2023-04-04 – 11:04:00
+- Quick reflection 2023-04-06 – 15:32:00
