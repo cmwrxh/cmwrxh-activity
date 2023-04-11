@@ -87,3 +87,4 @@ Personal notes start
 - Experiment log 2023-04-04 – 11:04:00
 - Quick reflection 2023-04-06 – 15:32:00
 - Small improvement 2023-04-10 – 19:51:00
+- Learning update 2023-04-11 – 12:41:00
