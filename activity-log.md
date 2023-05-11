@@ -108,3 +108,4 @@ Personal notes start
 - Project progress 2023-05-10 – 12:47:00
 - Code session 2023-05-10 – 17:03:00
 - Quick reflection 2023-05-11 – 11:31:00
+- Experiment log 2023-05-11 – 14:57:00
