@@ -114,3 +114,4 @@ Personal notes start
 - Small improvement 2023-05-12 – 18:29:00
 - Small improvement 2023-05-15 – 11:49:00
 - Quick reflection 2023-05-16 – 08:33:00
+- Learning update 2023-05-16 – 12:08:00
