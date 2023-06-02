@@ -128,3 +128,4 @@ Personal notes start
 - Small improvement 2023-05-29 – 17:41:00
 - Learning update 2023-05-29 – 13:52:00
 - Project progress 2023-06-01 – 08:50:00
+- Experiment log 2023-06-02 – 15:01:00
