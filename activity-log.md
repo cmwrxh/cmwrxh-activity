@@ -150,3 +150,4 @@ Personal notes start
 - Experiment log 2023-06-27 – 22:40:00
 - Code session 2023-06-27 – 10:50:00
 - Code session 2023-06-28 – 08:52:00
+- Quick reflection 2023-06-29 – 10:58:00
