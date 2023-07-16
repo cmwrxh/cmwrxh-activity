@@ -167,3 +167,4 @@ Personal notes start
 - Code session 2023-07-14 – 11:02:00
 - Small improvement 2023-07-14 – 19:19:00
 - Code session 2023-07-16 – 16:39:00
+- Learning update 2023-07-16 – 21:20:00
