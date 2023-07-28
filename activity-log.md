@@ -180,3 +180,4 @@ Personal notes start
 - Experiment log 2023-07-24 – 22:50:00
 - Project progress 2023-07-25 – 16:44:00
 - Project progress 2023-07-27 – 11:26:00
+- Small improvement 2023-07-28 – 12:39:00
