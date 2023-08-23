@@ -195,3 +195,4 @@ Personal notes start
 - Quick reflection 2023-08-17 – 09:07:00
 - Learning update 2023-08-18 – 10:56:00
 - Quick reflection 2023-08-20 – 12:15:00
+- Learning update 2023-08-23 – 11:53:00
