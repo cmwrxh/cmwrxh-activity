@@ -196,3 +196,4 @@ Personal notes start
 - Learning update 2023-08-18 – 10:56:00
 - Quick reflection 2023-08-20 – 12:15:00
 - Learning update 2023-08-23 – 11:53:00
+- Experiment log 2023-08-29 – 19:06:00
