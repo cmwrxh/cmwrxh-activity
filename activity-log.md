@@ -217,3 +217,4 @@ Personal notes start
 - Project progress 2023-09-27 – 19:50:00
 - Small improvement 2023-09-27 – 13:27:00
 - Project progress 2023-09-29 – 18:06:00
+- Learning update 2023-09-29 – 16:26:00
