@@ -234,3 +234,4 @@ Personal notes start
 - Learning update 2023-10-24 – 10:23:00
 - Daily note 2023-10-26 – 16:33:00
 - Daily note 2023-10-28 – 10:42:00
+- Learning update 2023-11-06 – 17:09:00
