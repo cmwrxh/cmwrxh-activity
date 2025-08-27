@@ -694,3 +694,4 @@ Personal notes start
 - Experiment log 2025-08-22 – 15:00:00
 - Project progress 2025-08-26 – 14:42:00
 - Code session 2025-08-26 – 15:36:00
+- Learning update 2025-08-27 – 19:17:00
