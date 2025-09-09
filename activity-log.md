@@ -704,3 +704,4 @@ Personal notes start
 - Code session 2025-09-04 – 18:22:00
 - Project progress 2025-09-05 – 18:34:00
 - Project progress 2025-09-09 – 12:30:00
+- Learning update 2025-09-09 – 12:08:00
