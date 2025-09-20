@@ -715,3 +715,4 @@ Personal notes start
 - Learning update 2025-09-18 – 18:41:00
 - Learning update 2025-09-19 – 12:05:00
 - Code session 2025-09-19 – 14:01:00
+- Experiment log 2025-09-20 – 08:17:00
