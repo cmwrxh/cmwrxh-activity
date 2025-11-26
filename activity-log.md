@@ -763,3 +763,4 @@ Personal notes start
 - Small improvement 2025-11-24 – 17:03:00
 - Code session 2025-11-24 – 19:31:00
 - Experiment log 2025-11-24 – 09:04:00
+- Learning update 2025-11-26 – 13:11:00
